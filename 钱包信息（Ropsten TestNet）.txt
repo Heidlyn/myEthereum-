@@ -1,0 +1,18 @@
+
+account1 private key: 7eae0451e5dc6c3843702a7cb39386dde73ba6e17b36f20fa00d19f4421d89a3
+account2 private key: 35e815463c6672fef00813073468a91c242d06bcea8e8ccadac82a60b254a839
+account3 private key: 0bb6695e996c1df4fb88b61281345f6773f923b308c1ea3a18126b56a2e7e8c7
+
+account1 address: 0x5960AD3C8B8Cf2BE2D239156a0A3F037Bba28500
+account2 address: 0x52943cA46579b7751602acB0cA22D8C694081c7D
+account3 address: 0x8B3D73Ec6D4612Dfd682CD862d57539374cBc966
+
+token  合约地址 0x116871d654eddefa5b6827b9b4f132a80d15055c
+( symbol "HDC",  account1 创建)
+
+ICO 地址： 0xf6f8fd8de514266041483cef22459cd2e0989871
+ICO2 地址： 0x0cc6abffdc0bdc19111bf1f215933b818f442c9e
+
+
+Gist token ： 4a456cc112c7acf82551754678b45947f2ac5ae3
+
